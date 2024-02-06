@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <first_name>John</first_name>
+        <last_name>Doe</last_name>
+        <email>john.doe@example.com</email>
+        <username>johndoe</username>
+        <password>hashed_password_1</password>
+        <country>USA</country>
+    </user>
+   
+<user><ime>karlo</ime><prezime>sasko</prezime><username>ksasko</username><email>karlo.sasko@gmail.com</email><password>$2y$10$/P1pZXueH2KC2CIiX0qBTeEkTvDMoYh3C7nes5cmlS/t0sAmr1Yc6</password></user><user><ime>Karlo</ime><prezime>Šaško</prezime><username>ksasko1</username><email>karlo.sasko@gmail.com</email><password>$2y$10$Le99zX5yKw6TVld9g0ZMheqo2KHYdk5JdSuvbSghEdbdj93VCM29a</password></user><user><ime>Ena</ime><prezime>Angelov</prezime><username>ena123</username><email>ena.angelov@gmail.com</email><password>$2y$10$TfiFN0hJwTUV1HoScGZareNJIuG7v8fPbWbxCtlxlyABAdZRaaWFS</password></user><user><ime>Karlo</ime><prezime>Šaško</prezime><username>karlo</username><email>karlo.sasko@gmail.com</email><password>$2y$10$MB4EPivfx/UhvqfJb7hucuLz9LxAkCjCLL8qpvPf2LgztOrUjvQha</password></user><user><ime>Karlo</ime><prezime>Šaško</prezime><username>karlosasko</username><email>karlo.sasko@gmail.com</email><password>$2y$10$kCnGXQKIdqBp0Ehn.9P3ke9SmrK3ig2XwfSkyPgcGdsyoPejlv0Ye</password></user></users>
